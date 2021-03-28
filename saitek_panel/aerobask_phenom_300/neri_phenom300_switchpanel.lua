@@ -1,5 +1,5 @@
 --[[
-	Neri's script for phantom300 xsaitek panels
+	Neri's script for aerobask phenom 300 xsaitek panels
 --]]
 
 if PLANE_ICAO == "E55P" then
